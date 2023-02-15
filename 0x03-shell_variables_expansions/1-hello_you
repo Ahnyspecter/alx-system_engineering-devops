@@ -1,2 +1,2 @@
 #!/bin/bash
-Ip hello user
+echo "hello SUSER"
