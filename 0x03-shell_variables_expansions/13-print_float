@@ -1,2 +1,2 @@
 #!/bin/bash
-alias floats
+printf "%.2f" $NUM | sort
