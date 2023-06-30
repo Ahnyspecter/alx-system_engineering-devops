@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#Bash script(s) that kills a/the process
+pgrep -f 7-highlander | xargs kill -9
