@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#Bash script(s) that will create a subprocess
+# Bash script(s) that will create a subprocess
 . /lib/lsb/init-functions
 
 PIDFILE=/var/run/my_process.pid
